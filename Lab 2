@@ -1,0 +1,15 @@
+Introduction to software engineering
+Course code:ET20210086
+             LAB 2
+Questions
+1 a.  A complex real-time system whose requirements can be relatively easily identified and are stable
+b. A web-site for a local library requirements are vague and are likely to change in the future
+c. An order processing system with a web-site for local butypss requirements are vague but stable (that is unlikely to change in the near future)
+2. Describe the software process model that you have proposed in question 5(a) highlighting it’s strength and weakness.
+Answers
+A.	Waterfall model should be the appropriate choice here, as the project is complex. The model is the best choice when the requirements and predictability of projects process and completion is already known.
+B.	Spiral model because requirements will be changing at each stages.
+C.	V model
+2.Waterfall model is a type of software development life cycle methodology whereby each stages relie on information forming the previous stage and has it own project plan
+
+
